@@ -57,3 +57,8 @@ $ docker run -p 5000:5000 --link disneyCharacters:redis -d busquedadisney
 Es importante tomar en cuenta habilitar el puerto para correr el programa y por supuesto, ponerle atención a los nombres utilizados para cada imagen y contenedor. Debe de esperar unos segundos y cuando el contenedor esté listo aparece lo siguiente en consola:
 * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 Esto se puede correr desde cualquier navegador asegurándose que la dirección esté correcta basado en la utilización de una máquina virtual o de una computadora común. 
+
+## Imágenes de ejemplo
+![alt text](https://github.com/JoseGuzmanZamora/redisDocker/blob/master/images/mickey.jpg)
+![alt text](https://github.com/JoseGuzmanZamora/redisDocker/blob/master/images/woody.jpg)
+![alt text](https://github.com/JoseGuzmanZamora/redisDocker/blob/master/images/rapunzel.jpg)
